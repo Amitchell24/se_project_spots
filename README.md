@@ -15,4 +15,6 @@
 
 This webpage is deployed to GitHub
 
-# Deployment Link https://amitchell24/github.io/se_project_spots
+# Deployment Link https://amitchell24.github.io/se_project_spots/
+
+Video link:
