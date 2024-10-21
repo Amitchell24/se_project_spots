@@ -1,5 +1,8 @@
 .cards {
   padding-top: 20px;
+  border-bottom: 1px solid #000;
+  max-width: 288px;
+  margin: 0 auto;
 }
 
 .cards__list {
@@ -9,7 +12,7 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, 413px);
   justify-content: center;
-  gap: 20px 20px;
+  gap: 20px;
 }
 
 @media screen and (max-width: 627px) {
