@@ -2,12 +2,10 @@
   margin: 0;
   box-sizing: border-box;
   color: #212121;
-  font-family: poppins, Arial, Helvetica, sans-serif;
   font-size: 16px;
   line-height: 1;
   font-weight: 400;
-  padding-top: 67px;
-  padding-bottom: 60px;
+  padding: 60px 0;
   padding-left: 0;
   width: 100%;
   display: flex;
@@ -21,11 +19,4 @@
   color: #212121b2;
   margin: 0 auto;
   text-align: center;
-}
-
-@media screen and (max-width: 350px) {
-  .footer {
-    padding-top: 12px;
-    padding-bottom: 36px;
-  }
 }

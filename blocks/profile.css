@@ -20,7 +20,6 @@
 }
 
 .profile__name {
-  font-family: poppins, Arial, Helvetica, sans-serif;
   font-weight: 500;
   font-size: 32px;
   line-height: 32px;
@@ -35,7 +34,6 @@
 }
 
 .profile__description {
-  font-family: poppins, Arial, Helvetica, sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 16px;
@@ -51,7 +49,6 @@
 }
 
 .profile__edit-button {
-  font-family: poppins, Arial, Helvetica, sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 16px;
@@ -82,7 +79,6 @@
 }
 
 .profile__add-button {
-  font-family: poppins, Arial, Helvetica, sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 16px;
@@ -123,7 +119,6 @@
 @media screen and (max-width: 627px) {
   .profile {
     flex-direction: column;
-    max-width: 288px;
     align-items: center;
     text-align: center;
     padding-top: 20px;
@@ -140,7 +135,6 @@
   .profile__name {
     margin-bottom: 6px;
     max-width: 288px;
-    font-family: poppins, Arial, Helvetica, sans-serif;
     font-size: 20px;
     line-height: 1;
     text-align: center;
@@ -194,7 +188,6 @@
   .profile__name {
     margin-bottom: 6px;
     max-width: 288px;
-    font-family: poppins, Arial, Helvetica, sans-serif;
     font-size: 20px;
     line-height: 1;
     text-align: center;
